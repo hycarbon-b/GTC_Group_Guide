@@ -31,5 +31,14 @@ Enjoy your journey with Data Science!
   - 新能源汽车电池劣化问题的影响因素研究 https://www.heywhale.com/home/competition/650191208322fe1efb3d86d2
   - 上海市不同情景道路交通领域碳达峰预测 https://www.heywhale.com/home/competition/650191538322fe1efb3d8843
   - 新能源运营车辆的风险分级研究 https://www.heywhale.com/home/competition/6501917a8322fe1efb3d89d7
+    
+2. “宏图杯”AI气象应用创意作品征集与交流主题活动：http://activity.chinamsa.org/youthCreate/channel
+  - AI在能源气象服务领域的应用
+  - AI在交通气象服务领域的应用
+  - 信息中心数据集(报名后查看)
+    
+3. 第四届厦门国际银行数创金融杯建模大赛：https://challenge.datacastle.cn/v3/cmptDetail.html?id=836
+（金融票据内容识别）  
+Tips：这个比赛更适合研究CV的同学参加，难点在于如何选择并改进OCR在小规模票据集上训练的性能
 
 `Waiting for updates...`
