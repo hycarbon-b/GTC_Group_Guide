@@ -23,11 +23,13 @@ Enjoy your journey with Data Science!
 
 以下为10.31截止的几场数据分析比赛，想参与的组员请将`名字（以及队员的名字）+ 比赛名称`发在Issues中，我会线上针对`Task1`  
 的内容进行教学，需要参加的队员尽量在12号之前完成`Task1`的考核任务。  
+
 比赛列表：
+比赛详情、要求及数据集内容请查看比赛官网
 1. X-GAME上海智能汽车新能源数据大赛（有四个课题可供选择）： 
-- 新能源汽车智能化出行服务研究 https://www.heywhale.com/home/competition/6501903e8322fe1efb3d8100
-- 新能源汽车电池劣化问题的影响因素研究 https://www.heywhale.com/home/competition/650191208322fe1efb3d86d2
-- 上海市不同情景道路交通领域碳达峰预测 https://www.heywhale.com/home/competition/650191538322fe1efb3d8843
-- 新能源运营车辆的风险分级研究 https://www.heywhale.com/home/competition/6501917a8322fe1efb3d89d7
+  - 新能源汽车智能化出行服务研究 https://www.heywhale.com/home/competition/6501903e8322fe1efb3d8100
+  - 新能源汽车电池劣化问题的影响因素研究 https://www.heywhale.com/home/competition/650191208322fe1efb3d86d2
+  - 上海市不同情景道路交通领域碳达峰预测 https://www.heywhale.com/home/competition/650191538322fe1efb3d8843
+  - 新能源运营车辆的风险分级研究 https://www.heywhale.com/home/competition/6501917a8322fe1efb3d89d7
 
 `Waiting for updates...`
