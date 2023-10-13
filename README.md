@@ -11,6 +11,7 @@ Enjoy your journey with Data Science!
 
 
 ## Task 1  
+[点击此处查看学习路线及资料](Task1.md)  
 数据分析：利用统计学、运筹学、优化算法对大量的数据进行分析、建模，找到规律和解决问题的solution  
 在 Task 1 中，我们要完成以下任务：  
 - 熟悉进行数据分析的工具————Python编程
@@ -20,7 +21,10 @@ Enjoy your journey with Data Science!
 `Task 1`考核任务：`Waiting for updates...`
 
 
+  
 ## Competition Notice
+<details>
+<summary>show the details</summary>
 以下为10.31截止的几场数据分析比赛，想参与的组员请将`名字（以及队员的名字）+ 比赛名称`发在Issues中，我会线上针对`Task1`  
 的内容进行教学，需要参加的队员尽量在12号之前完成`Task1`的考核任务。  
 
@@ -42,8 +46,10 @@ Enjoy your journey with Data Science!
 Tips：这个比赛更适合研究CV的同学参加，难点在于如何选择并改进OCR在小规模票据集上训练的性能
 
 `Waiting for updates...`
+</details>  
 
 ## Task 1 extend
+[点击查看详细内容](Task1extend.md)
 - 本次Task将会是第二次组会的主要内容  
 - Python基础教学（基础语法、数据类型、常见功能）（将使用kaggle在线运行python，对设备无要求，不需要安装软件）  
 - Github使用、vpn网络节点切换等在线答疑（什么都可以问）    
