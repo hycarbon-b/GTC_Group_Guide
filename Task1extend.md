@@ -40,6 +40,7 @@ print(ans)
 a,b = 1,1
 for i in range (3,10):
   print(f'The {i}-th num is {a+b}')
+  c = a
   a = b
   b = a+b
 ```
@@ -87,7 +88,7 @@ for i in range(10):
 ## 导入模块和新函数
 ```
 import os
-file_list = os.listdir('')
+file_list = os.listdir('.')
 print(file_list)
 ```
 
