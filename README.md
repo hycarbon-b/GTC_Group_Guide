@@ -48,7 +48,7 @@ Tips：这个比赛更适合研究CV的同学参加，难点在于如何选择�
 `Waiting for updates...`
 </details>  
 
-## Task 1 extend
+## Task 1 extend(线下活动内容，可略过)
 [点击查看详细内容](Task1extend.md)
 - 本次Task将会是第二次组会的主要内容  
 - Python基础教学（基础语法、数据类型、常见功能）（将使用kaggle在线运行python，对设备无要求，不需要安装软件）  
@@ -56,7 +56,3 @@ Tips：这个比赛更适合研究CV的同学参加，难点在于如何选择�
 - 数据加载、可视化（in python）  
 Details are waiting for updated
 
-## Task S1
-- (这是针对第一次参加数据科学竞赛的Task)
-- 更多关于Python的教学内容
-- Kaggle Titanic项目实战
