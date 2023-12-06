@@ -1,5 +1,6 @@
 # Notice  
 ## 12.7 社团最近活动： 
+(详情入群咨询或者发起Issues)
 - 本周末开展Imagine Cup的开赛讨论和技术分享
 - 招募下一周的Talker  
 - 微软Imagine Cup AI 创新大赛(1.24截止)
