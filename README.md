@@ -1,7 +1,7 @@
-# GTIIT 数据分析学习小组
-学习小组的通知和学习资料都将在此页面进行更新，组员们有任何问题和重要信息请在Issues中上传  
-学习方式：按照Task的顺序进行学习，完成每一个Task的考核任务后进入下一个Task的学习  
+# GT Innovation Guide  
 Enjoy your journey with Data Science!
+
+GT Innovation Guide会放置不同内容的学习指导，根据自己所需要的内容进行学习  
 
 ## Task 0
 - Github是我们发布信息、管理项目代码、进行团队协作的平台，请大家熟悉Github的页面（Github中一些关键的高级功能我们之后慢慢探索）
@@ -10,7 +10,7 @@ Enjoy your journey with Data Science!
 `Task0`考核任务：在Issues中发送`你的名字 + 你的kaggle用户名`
 
 
-## Task 1  
+## Task 1  Python数据分析入门  
 [点击此处查看学习路线及资料](Task1.md)  
 数据分析：利用统计学、运筹学、优化算法对大量的数据进行分析、建模，找到规律和解决问题的solution  
 在 Task 1 中，我们要完成以下任务：  
