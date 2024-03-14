@@ -1,40 +1,30 @@
 # Task1
 
 ## 学习指南
-- 搜索引擎是利器，善用  
-- https://www.runoob.com/python3/python3-tutorial.html  该网站（菜鸟教程）提供了详细的Python基础知识，以及常用库的学习方法
-- 建议使用 `Kaggle` 的Notebook进行代码训练（免费、易用、可直接导入各种数据集）
-1. 在菜鸟教程上学习Python的基础知识并完成考核任务（基础）
+- 遇上任何问题先利用搜索引擎或者GPT进行解答
+- 零基础入门Python可以查看 https://www.runoob.com/python3/python3-tutorial.html， 各种常用模块的用法也可以查阅该网站 
+- 注册kaggle账号， 平时可以在kaggle的Notebook上进行代码运行，无需配置本地运行环境
+
+1. 注册Kaggle，在kaggle code 上运行Python代码  
+2. 在菜鸟教程上学习Python的以下板块并完成Exercise
     - 基础语法
     - 基础数据类型
     - 条件控制
     - 循环语句
     - 函数
-2. 在菜鸟教程上学习csv文件的操作以及DataFrame并完成考核任务（CSV文件及DataFrame）
-3. 学习Seaborn绘制Titanic和House Price的一些图像并完成考核任务（数据可视化）
-    - 很简单，搜索引擎找合适的教程，几分钟就能上手
-    - 推荐这个notebook，有很完整的各种类型的代码演示 https://nbviewer.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.14-Visualization-With-Seaborn.ipynb
-4. 学习Kaggle提供的官方教学文件`Introduction to Machine learning` ,并完成`Titanic`或`HousePrice`的建模
-    - 网址为 https://www.kaggle.com/learn/intro-to-machine-learning
-    - 遇到问题可以在Issues中提交，也可以问我
-    - 如果看不懂，等待下次组会
-    - 我们暂时忽略数学原理
-## 考核任务
+> Exercise
+> 1. 编写一个函数，输入半径，返回面积
+> 2. 编写一个函数，输入自然数，返回奇数还是整数 
+> 3. 编写一个函数，输入自然数，返回它的阶乘     
+> 4. 编写两个输入分别为两个向量的函数，能够返回向量的和，返回向量的内积        
+> 5. 编写一个函数，查询列表中的最大值
 
-### 基础
+3. 学习Pandas库的基本使用，学会如何读取csv文件
+- 教程可以查阅https://www.runoob.com/pandas/pandas-tutorial.html
+- 学完基础操作完整查看kaggle 上的pandas教程 https://www.kaggle.com/learn/pandas
+- kaggle上面的教学代码自己运行一遍，遇上不太清楚去菜鸟教程上查阅详细的用法
 
-1. 编写一个函数，输入半径，返回面积
-2. 编写一个函数，输入自然数，返回奇数还是整数 
-3. 编写一个函数，输入自然数，返回它的阶乘     
-4. 编写两个输入分别为两个向量的函数，能够返回向量的和，返回向量的内积        
-5. 编写一个函数，查询列表中的最大值   
+4. 学习seaborn绘制数据各种图像
+- 完整地过一遍kaggle上的seaborn教程 https://www.kaggle.com/learn/data-visualization
+- 自己用Titanic 或者House price 数据集进行数据加载和图像绘制
 
-[（样例代码）]()
-
-### 常用文件操作函数
-
-### CSV文件及DataFrame
-
-### 数据可视化(with Seaborn)
-
-### Kaggle中的入门数据集
