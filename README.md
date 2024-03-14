@@ -14,19 +14,10 @@ GT Innovation Guide会放置不同内容的学习指导，根据自己所需要�
 [点击此处查看学习路线及资料](Task1.md)  
 数据分析：利用统计学、运筹学、优化算法对大量的数据进行分析、建模，找到规律和解决问题的solution  
 在 Task 1 中，我们要完成以下任务：  
-- 熟悉进行数据分析的工具————Python编程
+- 熟悉进行数据分析的语言————Python
 - 了解机器学习（统计学习）中的几个简单常用算法
 - 通过一个入门项目Titanic（通过乘客的各种信息预测在沉船事故中是否生还），掌握如何读取处理数据，如何进行最基本的模型建立
 
-基础概念：
-环境配置：
-  - Python（module func）python.exe -> python环境安装某个文件夹
-  - 开发软件Visualstudio Code 插件：python /jupyter/ SSH Remote 新建一个.ipynb, 安装弹出的推荐插件
-  - pip是python的外部包管理工具，可以位python增加拓展内容
-  - pip： matplotlib（数据可视化，图像，统计学分析），pandas（文件加载），numpy(复杂的数据计算，数据->高维矩阵)
-  - 熟练掌握os ，pandas常用文件处理命令，以及和numpy的转化
-  - csv（coma split）pandas里有一类数据结构dataframe
-  - csv file -> pd.DataFrame 
 `Task 1`考核任务：`Waiting for updates...`
 
 
@@ -59,7 +50,7 @@ Tips：这个比赛更适合研究CV的同学参加，难点在于如何选择�
 
 ## Task 1 extend(线下活动内容，可略过)
 [点击查看详细内容](Task1extend.md)
-- 本次Task将会是第二次组会的主要内容  
+- 这是第二次线下组会的主要内容  
 - Python基础教学（基础语法、数据类型、常见功能）（将使用kaggle在线运行python，对设备无要求，不需要安装软件）  
 - Github使用、vpn网络节点切换等在线答疑（什么都可以问）    
 - 数据加载、可视化（in python）  
