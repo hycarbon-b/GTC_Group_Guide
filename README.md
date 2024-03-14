@@ -14,7 +14,7 @@ GT Innovation Guide会放置不同内容的学习指导，根据自己所需要�
 <details>
 <summary>show the details</summary>
   
-[点击此处查看学习路线及资料](Task1.md)   
+[点击此处查看学习路线及资料](tasks/Task1.md)   
 数据分析：利用统计学、运筹学、优化算法对大量的数据进行分析、建模，找到规律和解决问题的solution  
 在 Task 1 中，我们要完成以下任务：  
 - 熟悉进行数据分析的语言————Python
@@ -55,7 +55,7 @@ Tips：这个比赛更适合研究CV的同学参加，难点在于如何选择�
 <details>
 <summary>show the details</summary>
 
-[点击查看详细内容](Task1extend.md)
+[点击查看详细内容](tasks/Task1extend.md)
 - 这是第二次线下组会的主要内容  
 - Python基础教学（基础语法、数据类型、常见功能）（将使用kaggle在线运行python，对设备无要求，不需要安装软件）  
 - Github使用、vpn网络节点切换等在线答疑（什么都可以问）    
