@@ -31,7 +31,7 @@ GT Innovation Guide会放置不同内容的学习指导，根据自己所需要�
 
 
   
-## Competition Notice
+## Competition Notice 2023
 <details>
 <summary>show the details</summary>
 以下为10.31截止的几场数据分析比赛，想参与的组员请将`名字（以及队员的名字）+ 比赛名称`发在Issues中，我会线上针对`Task1`  
@@ -64,4 +64,10 @@ Tips：这个比赛更适合研究CV的同学参加，难点在于如何选择�
 - Github使用、vpn网络节点切换等在线答疑（什么都可以问）    
 - 数据加载、可视化（in python）  
 Details are waiting for updated
+
+## Task2 深度学习+ Pytorch 入门  
+[点击查看Task1内容](tasks/Task2.md)
+- 配置运行环境
+- 学习神经网络计算的基本原理     
+- 了解神经网络开发工具Pytorch， 以及自学资源和方式
 
