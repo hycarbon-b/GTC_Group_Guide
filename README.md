@@ -11,14 +11,17 @@ GT Innovation Guide会放置不同内容的学习指导，根据自己所需要�
 
 
 ## Task 1  Python数据分析入门  
-[点击此处查看学习路线及资料](Task1.md)  
+<details>
+<summary>show the details</summary>
+  
+[点击此处查看学习路线及资料](Task1.md)   
 数据分析：利用统计学、运筹学、优化算法对大量的数据进行分析、建模，找到规律和解决问题的solution  
 在 Task 1 中，我们要完成以下任务：  
 - 熟悉进行数据分析的语言————Python
 - 了解机器学习（统计学习）中的几个简单常用算法
 - 通过一个入门项目Titanic（通过乘客的各种信息预测在沉船事故中是否生还），掌握如何读取处理数据，如何进行最基本的模型建立
 
-`Task 1`考核任务：`Waiting for updates...`
+</details>  
 
 
   
@@ -49,6 +52,9 @@ Tips：这个比赛更适合研究CV的同学参加，难点在于如何选择�
 </details>  
 
 ## Task 1 extend(线下活动内容，可略过)
+<details>
+<summary>show the details</summary>
+
 [点击查看详细内容](Task1extend.md)
 - 这是第二次线下组会的主要内容  
 - Python基础教学（基础语法、数据类型、常见功能）（将使用kaggle在线运行python，对设备无要求，不需要安装软件）  
@@ -56,9 +62,16 @@ Tips：这个比赛更适合研究CV的同学参加，难点在于如何选择�
 - 数据加载、可视化（in python）  
 Details are waiting for updated
 
+</details>
+
 ## Task2 深度学习+ Pytorch 入门  
+<details>
+<summary>show the details</summary>
+
 [点击查看Task1内容](tasks/Task2.md)
 - 配置运行环境
 - 学习神经网络计算的基本原理     
 - 了解神经网络开发工具Pytorch， 以及自学资源和方式
+
+</details>
 
