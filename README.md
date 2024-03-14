@@ -1,16 +1,16 @@
 # GT Innovation Guide  
 Enjoy your journey with Data Science!
 
-GT Innovation Guide会放置不同内容的学习指导，根据自己所需要的内容进行学习  
+GT Innovation Guide会放置不同内容的学习指导，根据自己所需要的内容进行学习 
 
-## Task 0
+## Task 0 了解工作流
 - Github是我们发布信息、管理项目代码、进行团队协作的平台，请大家熟悉Github的页面（Github中一些关键的高级功能我们之后慢慢探索）
 - 注册Kaggle平台账号，kaggle是一个数据科学社区，上面有大量的比赛、数据集以及相关代码，同时也提供了代码的运行环境（云服务器），之后我们将在Kaggle上进行Python编程，并完成第一个项目Titanic
 
-`Task0`考核任务：在Issues中发送`你的名字 + 你的kaggle用户名`
+`Task0`考核：在Issues中发送`你的名字 + 你的kaggle用户名`
 
 
-## Task 1  Python数据分析入门  
+## Task 1 Python数据分析入门  
 <details>
 <summary>show the details</summary>
   
