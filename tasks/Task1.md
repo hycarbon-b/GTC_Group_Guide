@@ -20,11 +20,11 @@
 > 5. 编写一个函数，查询列表中的最大值
 
 3. 学习Pandas库的基本使用，学会如何读取csv文件
-- 教程可以查阅https://www.runoob.com/pandas/pandas-tutorial.html
-- 学完基础操作完整查看kaggle 上的pandas教程 https://www.kaggle.com/learn/pandas
-- kaggle上面的教学代码自己运行一遍，遇上不太清楚去菜鸟教程上查阅详细的用法
+    - 教程可以查阅https://www.runoob.com/pandas/pandas-tutorial.html
+    - 学完基础操作完整查看kaggle 上的pandas教程 https://www.kaggle.com/learn/pandas
+    - kaggle上面的教学代码自己运行一遍，遇上不太清楚去菜鸟教程上查阅详细的用法
 
 4. 学习seaborn绘制数据各种图像
-- 完整地过一遍kaggle上的seaborn教程 https://www.kaggle.com/learn/data-visualization
-- 自己用Titanic 或者House price 数据集进行数据加载和图像绘制
+    - 完整地过一遍kaggle上的seaborn教程 https://www.kaggle.com/learn/data-visualization
+    - 自己用Titanic 或者House price 数据集进行数据加载和图像绘制
 
